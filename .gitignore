@@ -18,14 +18,3 @@
 *.zip
 *.tar.gz
 *.rar
-
-<<<<<<< HEAD
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-
-.classpath
-.project
-.settings
-MANIFEST.MF
-=======
->>>>>>> 54b249be12a822c56d21066e84d8c8613c42a4a1
