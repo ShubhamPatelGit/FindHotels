@@ -1,0 +1,28 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+table, th, td {
+	margin: 50px auto;
+	border: 2px solid green;
+}
+
+th {
+	color: blue;
+}
+
+td, th {
+	padding: 5px;
+	border: 1px solid black;
+}
+
+p {
+	padding: 5px;
+	font-size: 30px; color : #03a003;
+	background: #a5f3a4;
+	color: #03a003;
+}
